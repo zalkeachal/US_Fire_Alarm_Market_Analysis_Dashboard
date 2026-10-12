@@ -74,6 +74,6 @@ The data in this project is limited to what was approved for sharing. No raw rec
 
 ---
 
-Feel free to reach out with questions or suggestions: [LinkedIn | Tanuj Patekar](https://www.linkedin.com/in/tanuj-patekar/)
+Feel free to reach out with questions or suggestions: [LinkedIn | Achal Zalke](https://www.linkedin.com/in/achal-zalke-2ba9661b4/?isSelfProfile=false)
 
 If you find this useful, don't forget to follow and star ⭐ the repository.
